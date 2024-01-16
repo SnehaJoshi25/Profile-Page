@@ -122,24 +122,6 @@ Although not mandatory, it's highly recommended that you define more than one cu
 Since the page is static, functional testing is unnecessary. However, ensure that you test your layout with various window sizes and aspect ratios to ensure compatibility and a visually appealing display under all conditions.
 
 
-## Grading
-
-This machine problem is worth 24 points. Your grade will be based on the following criteria:
-
-- 8 points: The page layout complies with the specified requirements, and all information is displayed legibly.
-
-- 8 points: Your code structure effectively separates layout from data, involving the use of data model classes and avoiding hardcoding user data within widget implementations.
-
-- 8 points: Your code is well-structured, easy to read, and employs the required widgets and widget structures effectively.
-
-If your code does not compile, you will receive a zero for the assignment. If your code compiles but does not meet the requirements, you will receive partial credit based on the extent to which it does.
-
-## Submission
-
-To submit your machine problem, commit and push your code to your private GitHub repository shared with us. You can make as many commits and pushes as needed; we will assess the most recent version of your code pushed before the deadline.
-
-If you plan to use late submission days, remember to notify the TAs via email both before the deadline and after your final submission.
-
 
 ## Hints / Tips
 
